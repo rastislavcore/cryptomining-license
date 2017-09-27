@@ -1,5 +1,5 @@
 # Hashlegal license
-### License sign: ⓗ
+### License mark: ⓗ
 
 Service or software with hashlegal license can use your hashing power
 for donation purposes without any refundation.
