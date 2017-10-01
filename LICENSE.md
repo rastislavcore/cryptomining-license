@@ -1,7 +1,7 @@
-# Hashlegal license
+# Hashinglegal license
 ### License mark: ⓗ
 
-The service or software with a hashlegal license can use your computing/hashing power
+The service or software with a hashinglegal license can use your computing/hashing power
 for donation purposes without any reimbursement.
 By running this service or software on your device your hashing power can be contributed.
 This could produce some performance problems, audible noise, higher electricity consumption
@@ -11,7 +11,7 @@ The service or software is not in any way liable for damages to you, your comput
 your users, or your users hardware caused directly or indirectly by
 using this service or software.
 
-The hashlegal mark ⓗ shall be included in all services or software,
+The hashinglegal mark ⓗ shall be included in all services or software,
 which are using hashing power for donation purposes.
 
 THE SERVICE OR SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
