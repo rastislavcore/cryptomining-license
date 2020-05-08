@@ -1,18 +1,24 @@
-# Hashinglegal license
-### License mark: ⓗ
+# Cryptomining license
 
-The service or software with a hashinglegal license can use your computing/hashing power
-for donation purposes without any reimbursement.
-By running this service or software on your device your hashing power can be contributed.
-This could produce some performance problems, audible noise, higher electricity consumption
+### Cryptomining ⓜ
+
+The software with a cryptomining license can use your computing power
+or computing resources for distribution purposes.
+By running this software on your device your computing power can be contributed
+to servers, network, or applications.
+This could produce some performance problems, audible noise,
+higher electricity consumption, use of the connection to the network
 or extra heat output.
 Occasionally these factors can lead to further problems/instability.
-The service or software is not in any way liable for damages to you, your computer equipment,
-your users, or your users hardware caused directly or indirectly by
-using this service or software.
+The service or software is not in any way liable for damages to you,
+your computer equipment, your users, or your users' hardware
+caused directly or indirectly by using this service or software.
 
-The hashinglegal mark ⓗ shall be included in all services or software,
-which are using hashing power for donation purposes.
+You should be able to pause and deactivate cryptomining procedures
+if you don't want to contribute.
+
+The cryptomining mark ⓜ shall be included on a visible place of the software,
+which is using hashing power contribution.
 
 THE SERVICE OR SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
@@ -22,4 +28,4 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SERVICE, SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-Thank you for your donation.
+Thank you for your decentralized cryptomining.
